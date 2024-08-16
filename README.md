@@ -5,7 +5,6 @@ This repo was meant as a helper script for udacity students enrolled in AI for p
 # Run the app
 
 
-
 # To run locally
 
 ```python
