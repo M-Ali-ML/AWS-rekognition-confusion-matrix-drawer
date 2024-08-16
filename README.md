@@ -4,6 +4,7 @@ This repo was meant as a helper script for udacity students enrolled in AI for p
 
 # Run the app
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aws-rekognition-confusion-matrix-drawer.streamlit.app/)
 
 # To run locally
 
