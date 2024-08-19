@@ -24,7 +24,7 @@ def create_confusion_matrix(data):
     fig, ax = plt.subplots(figsize=(10, 8))
     
     # Create heatmap
-    sns.heatmap(df, annot=True, fmt='.2f', cmap='Blues', ax=ax)
+    sns.heatmap(df, annot=True, fmt='.2f', cmap='Greens', ax=ax)
     
     # Set labels and title
     ax.set_ylabel('True Label')
